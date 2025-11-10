@@ -414,3 +414,4 @@ npm run deploy
 ---
 
 *Built with ❤️ using Cloudflare's edge platform and AI-assisted development*
+# cf_ai_research_assistant
