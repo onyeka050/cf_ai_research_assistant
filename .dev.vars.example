@@ -1,0 +1,20 @@
+# Environment Variables Example
+# Copy this file to .dev.vars for local development if needed
+
+# NOTE: For this Cloudflare AI project, NO environment variables are required!
+# Workers AI and Durable Objects are automatically available.
+
+# This file is here as a placeholder if you want to add external services later.
+
+# Example: If you wanted to use an external LLM instead of Workers AI
+# OPENAI_API_KEY=your-key-here
+# ANTHROPIC_API_KEY=your-key-here
+
+# Example: If you wanted to add analytics
+# ANALYTICS_TOKEN=your-token-here
+
+# Example: If you wanted to add authentication
+# JWT_SECRET=your-secret-here
+
+# For the current implementation, you can safely ignore this file.
+# Everything works out of the box with just: npm install && npm run deploy
